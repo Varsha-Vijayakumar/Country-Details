@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Varsha-Vijayakumar/Country-Details/precache-manifest.3c8c3d4c1cbcf7fe99cd112b46c31e48.js"
+  "/Varsha-Vijayakumar/Country-Details/precache-manifest.5e505f08b335f8554847432f7cf3b2f3.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -35,5 +35,5 @@ workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
 workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/Varsha-Vijayakumar/Country-Details/index.html"), {
   
-  blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
+  blacklist: [/^\/_/,/\/[^\/?]+\.[^\/]+$/],
 });

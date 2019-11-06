@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/Varsha-Vijayakumar/Country-Details/static/js/main.e2769efe.chunk.js",
-    "main.js.map": "/Varsha-Vijayakumar/Country-Details/static/js/main.e2769efe.chunk.js.map",
+    "main.js": "/Varsha-Vijayakumar/Country-Details/static/js/main.4ed8383c.chunk.js",
+    "main.js.map": "/Varsha-Vijayakumar/Country-Details/static/js/main.4ed8383c.chunk.js.map",
     "runtime-main.js": "/Varsha-Vijayakumar/Country-Details/static/js/runtime-main.21deb151.js",
     "runtime-main.js.map": "/Varsha-Vijayakumar/Country-Details/static/js/runtime-main.21deb151.js.map",
     "static/css/2.833dd627.chunk.css": "/Varsha-Vijayakumar/Country-Details/static/css/2.833dd627.chunk.css",
     "static/js/2.3e1f8dab.chunk.js": "/Varsha-Vijayakumar/Country-Details/static/js/2.3e1f8dab.chunk.js",
     "static/js/2.3e1f8dab.chunk.js.map": "/Varsha-Vijayakumar/Country-Details/static/js/2.3e1f8dab.chunk.js.map",
     "index.html": "/Varsha-Vijayakumar/Country-Details/index.html",
-    "precache-manifest.3c8c3d4c1cbcf7fe99cd112b46c31e48.js": "/Varsha-Vijayakumar/Country-Details/precache-manifest.3c8c3d4c1cbcf7fe99cd112b46c31e48.js",
+    "precache-manifest.5e505f08b335f8554847432f7cf3b2f3.js": "/Varsha-Vijayakumar/Country-Details/precache-manifest.5e505f08b335f8554847432f7cf3b2f3.js",
     "service-worker.js": "/Varsha-Vijayakumar/Country-Details/service-worker.js",
     "static/css/2.833dd627.chunk.css.map": "/Varsha-Vijayakumar/Country-Details/static/css/2.833dd627.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.21deb151.js",
     "static/css/2.833dd627.chunk.css",
     "static/js/2.3e1f8dab.chunk.js",
-    "static/js/main.e2769efe.chunk.js"
+    "static/js/main.4ed8383c.chunk.js"
   ]
 }
